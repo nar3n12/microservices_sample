@@ -21,7 +21,7 @@
   "homepage": "https://github.com/nar3n12/microservices_sample#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2"
   }
 }
